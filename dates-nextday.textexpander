@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>groupInfo</key>
+    <dict>
+        <key>expandAfterMode</key>
+        <integer>0</integer>
+        <key>groupName</key>
+        <string>Dates: Next Day</string>
+    </dict>
+    <key>snippetsTE2</key>
+    <array>
+        <dict>
+            <key>abbreviation</key>
+            <string>;nmon</string>
+            <key>abbreviationMode</key>
+            <integer>0</integer>
+            <key>creationDate</key>
+            <date>2015-07-11T23:37:47Z</date>
+            <key>extraInfo</key>
+            <dict/>
+            <key>label</key>
+            <string>Next Monday</string>
+            <key>modificationDate</key>
+            <date>2015-07-12T16:54:31Z</date>
+            <key>plainText</key>
+            <string>%snippet:util.+getNextDayOfWeek+%%A, %B %e</string>
+            <key>snippetType</key>
+            <integer>0</integer>
+            <key>uuidString</key>
+            <string>F522AFF6-FEC1-4D7B-9B2B-E2689011583F</string>
+        </dict>
+        <dict>
+            <key>abbreviation</key>
+            <string>;nsun</string>
+            <key>abbreviationMode</key>
+            <integer>0</integer>
+            <key>creationDate</key>
+            <date>2015-07-11T23:37:47Z</date>
+            <key>extraInfo</key>
+            <dict/>
+            <key>label</key>
+            <string>Next Sunday</string>
+            <key>modificationDate</key>
+            <date>2015-07-12T16:54:52Z</date>
+            <key>plainText</key>
+            <string>%snippet:util.+getNextDayOfWeek+%%A, %B %e</string>
+            <key>snippetType</key>
+            <integer>0</integer>
+            <key>uuidString</key>
+            <string>E6028F79-15E0-4AA8-940F-9E52FB3FE422</string>
+        </dict>
+        <dict>
+            <key>abbreviation</key>
+            <string>;nfri</string>
+            <key>abbreviationMode</key>
+            <integer>0</integer>
+            <key>creationDate</key>
+            <date>2015-07-11T23:37:47Z</date>
+            <key>extraInfo</key>
+            <dict/>
+            <key>label</key>
+            <string>Next Friday</string>
+            <key>modificationDate</key>
+            <date>2015-07-12T16:54:19Z</date>
+            <key>plainText</key>
+            <string>%snippet:util.+getNextDayOfWeek+%%A, %B %e</string>
+            <key>snippetType</key>
+            <integer>0</integer>
+            <key>uuidString</key>
+            <string>EE0C7A52-A2EE-46E5-B8C6-DC13EECA6818</string>
+        </dict>
+        <dict>
+            <key>abbreviation</key>
+            <string>;nwed</string>
+            <key>abbreviationMode</key>
+            <integer>0</integer>
+            <key>creationDate</key>
+            <date>2015-07-11T23:37:47Z</date>
+            <key>extraInfo</key>
+            <dict/>
+            <key>label</key>
+            <string>Next Wednesday</string>
+            <key>modificationDate</key>
+            <date>2015-07-12T16:55:21Z</date>
+            <key>plainText</key>
+            <string>%snippet:util.+getNextDayOfWeek+%%A, %B %e</string>
+            <key>snippetType</key>
+            <integer>0</integer>
+            <key>uuidString</key>
+            <string>CFA9FC5F-0F61-45B8-B7CF-787CC5E48B6D</string>
+        </dict>
+        <dict>
+            <key>abbreviation</key>
+            <string>;nthurs</string>
+            <key>abbreviationMode</key>
+            <integer>0</integer>
+            <key>creationDate</key>
+            <date>2015-07-11T23:37:47Z</date>
+            <key>extraInfo</key>
+            <dict/>
+            <key>label</key>
+            <string>Next Thursday</string>
+            <key>modificationDate</key>
+            <date>2015-07-12T16:55:02Z</date>
+            <key>plainText</key>
+            <string>%snippet:util.+getNextDayOfWeek+%%A, %B %e</string>
+            <key>snippetType</key>
+            <integer>0</integer>
+            <key>uuidString</key>
+            <string>7FE1FAB0-8399-4576-8CF0-8ACDA16DB53E</string>
+        </dict>
+        <dict>
+            <key>abbreviation</key>
+            <string>;nsat</string>
+            <key>abbreviationMode</key>
+            <integer>0</integer>
+            <key>creationDate</key>
+            <date>2015-07-11T23:37:47Z</date>
+            <key>extraInfo</key>
+            <dict/>
+            <key>label</key>
+            <string>Next Saturday</string>
+            <key>modificationDate</key>
+            <date>2015-07-12T16:54:41Z</date>
+            <key>plainText</key>
+            <string>%snippet:util.+getNextDayOfWeek+%%A, %B %e</string>
+            <key>snippetType</key>
+            <integer>0</integer>
+            <key>uuidString</key>
+            <string>D765F18D-BF81-48F7-8694-7C6B505AB70D</string>
+        </dict>
+        <dict>
+            <key>abbreviation</key>
+            <string>;ntues</string>
+            <key>abbreviationMode</key>
+            <integer>0</integer>
+            <key>creationDate</key>
+            <date>2015-07-11T23:37:47Z</date>
+            <key>extraInfo</key>
+            <dict/>
+            <key>label</key>
+            <string>Next Tuesday</string>
+            <key>modificationDate</key>
+            <date>2015-07-12T16:55:11Z</date>
+            <key>plainText</key>
+            <string>%snippet:util.+getNextDayOfWeek+%%A, %B %e</string>
+            <key>snippetType</key>
+            <integer>0</integer>
+            <key>uuidString</key>
+            <string>1C0D6BF8-9633-4196-AE91-CA6B19A8B5B5</string>
+        </dict>
+        <dict>
+            <key>abbreviation</key>
+            <string>util.+getNextDayOfWeek+</string>
+            <key>abbreviationMode</key>
+            <integer>0</integer>
+            <key>creationDate</key>
+            <date>2015-07-11T22:53:00Z</date>
+            <key>label</key>
+            <string>util: Get Next Day</string>
+            <key>modificationDate</key>
+            <date>2015-07-12T16:53:52Z</date>
+            <key>plainText</key>
+            <string>// This utility snippet should not be invoked directly, only from another snippet.
+// Because TextExpander doesn't (yet) let us pass parameters into snippets we have to rely on using a consistent,
+// known name for the calling snippet. For this reason, it must have an abbreviation that begins with ';n' then is followed
+// by 'mon', 'tues', 'wed', 'thurs', 'fri', 'sat' or 'sun'.
+// Example: ;nthurs
+//
+// To change the prefix of the abbreviation of the calling snippets, you must first change the variable 'prefix', declared below.
+
+var prefix = ';n';
+var days = {
+    sun: 0,
+    mon: 1,
+    tues: 2,
+    wed: 3,
+    thurs: 4,
+    fri: 5,
+    sat: 6
+};
+var day = TextExpander.triggeringAbbreviation.replace(prefix, '').toLowerCase();
+var dayOfWeek = days[day];
+var today = new Date();
+
+today.setDate(TextExpander.baseDate.getDate() + 1);
+TextExpander.adjustedDate = new Date(today.setDate(today.getDate() + (7 + dayOfWeek - today.getDay()) % 7));
+TextExpander.ignoreOutput = true;</string>
+            <key>snippetType</key>
+            <integer>4</integer>
+            <key>uuidString</key>
+            <string>AC34D0A2-FF42-4DCF-A33F-3FB131C5A9B2</string>
+        </dict>
+    </array>
+</dict>
+</plist>
